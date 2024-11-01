@@ -1,0 +1,14 @@
+{
+    "name": "ioredis-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js app to test ioredis",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "ioredis": "4.28.2"
+    }
+  }
+  
